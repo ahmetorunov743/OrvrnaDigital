@@ -534,7 +534,7 @@ const VIP_STATUS_KEY = "orvena-vip-status";
 // ⚠️ Подставьте свой Client ID из Google Cloud Console → APIs & Services →
 // Credentials → OAuth client ID (тип "Web application"). Без него кнопка
 // покажет аккуратное уведомление, что вход пока не настроен, а не молча сломается.
-const GOOGLE_CLIENT_ID = "YOUR_GOOGLE_CLIENT_ID.apps.googleusercontent.com";
+const GOOGLE_CLIENT_ID = "818971983806-mo3692s0mh12aeqfcug8jpbsmb06q4qb.apps.googleusercontent.com";
 
 function getVipUser() {
   try {
